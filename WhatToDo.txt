@@ -1,0 +1,16 @@
+1.Make a solution file -> dotnet new sln -n "NameOffFile"
+This Does a global build
+
+2. Make some Class Libararies -> dotnet new classlib -o "NameOfFile"
+    A. We need 2 Class Libaries (NameOfFile.Data, NameOfFile.Repositury)
+        I. Data layer => these only hold ...
+        II. Repository layer => This is just a directory that will hold all of the Collection of the Data layer.
+3. Create Console Application => dotnet new console -o "NameOfFile"
+    A. This is just what we use for user interaction. (Front Facing Application)
+        I. This is connected to the .Data layer and .Repository layer
+            a. (Add Reference) -> dotnet add dotnet new console -o 00_HelloWorld -n HelloWorld
+            b. (Add Refrence) -> dotnet add .\StoryTeller.UI reference .\StoryTellee.Data\
+4. Add References to the Data layer from the Repository
+    a. (Add Reference) -> dotnet add .\StoryTeller.Repository\ refrence .\StoryTeller.Data\
+5. Add project(s) to solution.
+    

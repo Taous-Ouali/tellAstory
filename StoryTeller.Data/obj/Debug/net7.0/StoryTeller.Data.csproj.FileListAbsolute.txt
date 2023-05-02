@@ -1,0 +1,12 @@
+C:\tellAstory\StoryTeller.Data\bin\Debug\net7.0\StoryTeller.Data.deps.json
+C:\tellAstory\StoryTeller.Data\bin\Debug\net7.0\StoryTeller.Data.dll
+C:\tellAstory\StoryTeller.Data\bin\Debug\net7.0\StoryTeller.Data.pdb
+C:\tellAstory\StoryTeller.Data\obj\Debug\net7.0\StoryTeller.Data.csproj.AssemblyReference.cache
+C:\tellAstory\StoryTeller.Data\obj\Debug\net7.0\StoryTeller.Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\tellAstory\StoryTeller.Data\obj\Debug\net7.0\StoryTeller.Data.AssemblyInfoInputs.cache
+C:\tellAstory\StoryTeller.Data\obj\Debug\net7.0\StoryTeller.Data.AssemblyInfo.cs
+C:\tellAstory\StoryTeller.Data\obj\Debug\net7.0\StoryTeller.Data.csproj.CoreCompileInputs.cache
+C:\tellAstory\StoryTeller.Data\obj\Debug\net7.0\StoryTeller.Data.dll
+C:\tellAstory\StoryTeller.Data\obj\Debug\net7.0\refint\StoryTeller.Data.dll
+C:\tellAstory\StoryTeller.Data\obj\Debug\net7.0\StoryTeller.Data.pdb
+C:\tellAstory\StoryTeller.Data\obj\Debug\net7.0\ref\StoryTeller.Data.dll
